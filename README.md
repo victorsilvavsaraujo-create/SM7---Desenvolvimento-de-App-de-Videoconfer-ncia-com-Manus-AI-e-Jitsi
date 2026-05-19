@@ -1,0 +1,1 @@
+# SM7---Desenvolvimento-de-App-de-Videoconfer-ncia-com-Manus-AI-e-Jitsi
